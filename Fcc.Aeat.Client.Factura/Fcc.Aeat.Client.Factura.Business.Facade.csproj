@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Fcc.Aeat.Client.Factura.Business.Facade</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fcc.Aeat.Client.Factura.Contracts\Fcc.Aeat.Client.Factura.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
