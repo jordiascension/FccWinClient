@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Fcc.Aeat.Client.Factura.WinSite": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "Development"
+      }
+    }
+  }
+}
